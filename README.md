@@ -1,1 +1,1 @@
-# keras_experiments
+Keras experiments for better understanding the library.
