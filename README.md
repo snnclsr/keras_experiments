@@ -1,1 +1,1 @@
-### Keras experiments for better understanding the library.
+### Keras experiments
